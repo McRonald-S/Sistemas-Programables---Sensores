@@ -32,3 +32,13 @@ El Sistema de Posicionamiento Global (GPS) es un sistema de navegación por sat�
 
 ![imagen](https://user-images.githubusercontent.com/71404620/191583668-e1fd0429-a73d-45aa-ae44-469e7f01f594.png)
 
+ Esencialmente, el receptor GPS mide la distancia a cada satélite por la cantidad de tiempo que toma recibir una señal transmitida. Con mediciones de distancia de unos pocos satélites más, el receptor puede determinar la posición de un usuario y mostrarla.
+ 
+ Una vez que se ha determinado su posición, la unidad GPS puede calcular otra información, como por ejemplo:
+
+    Velocidad
+    Rango de movimiento
+    Camino
+    Distancia del viaje
+    Distancia hasta el destino
+
