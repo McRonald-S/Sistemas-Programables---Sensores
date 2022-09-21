@@ -27,3 +27,8 @@ Al igual que NTSC, es un sistema entrelazado.
 
 ![cooltext419704058653859](https://user-images.githubusercontent.com/71404620/191369763-6c60da51-9a90-4862-a02b-b20a09440e19.png)
 
+El Sistema de Posicionamiento Global (GPS) es un sistema de navegación por satélite compuesto por al menos 24 satélites. El GPS funciona en cualquier condición climática, en cualquier parte del mundo, las 24 horas del día, sin cargos de suscripción ni de configuración.
+
+
+![imagen](https://user-images.githubusercontent.com/71404620/191583668-e1fd0429-a73d-45aa-ae44-469e7f01f594.png)
+
